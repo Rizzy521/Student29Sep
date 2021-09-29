@@ -27,7 +27,7 @@ public class StudentList {
             System.out.println(s.getName());
         }
         
-        
+      
     }
     
 }
