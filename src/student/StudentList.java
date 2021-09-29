@@ -15,10 +15,10 @@ public class StudentList {
         Student [] studentList =new Student[2];
         
         Student s1 = new Student();
-        s1.setName("Ronak");
+        s1.setName("Rizwan");
         
         Student s2 = new Student();
-        s2.setName("Sheth");
+        s2.setName("Hasan");
         
         studentList[0] =s1;
         studentList[1] =s2;
